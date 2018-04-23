@@ -1,0 +1,4 @@
+# remove from git
+.idea
+chromedriver
+__pycache__
